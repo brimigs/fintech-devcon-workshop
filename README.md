@@ -1,18 +1,31 @@
 # fintech-devcon-workshop
 
-### Environment Set Up
+### Section 1: Create a wallet and your first token
+
+Solana Playground: https://beta.solpg.io/6892613ccffcf4b13384d85f
+
+1. Compliance Coin Address:
 
 ```shell
-npx mucho install
+HSHEMhjDuPag76qtf6LhRovmUJYm2J18MZ7sJVEdeB5Z
 ```
 
-- Reference docs for installation: https://solana.com/docs/intro/installation
-
-### The Token Mint Account
+2. Create a token:
 
 ```shell
-Hg6bZkfzmLqFKNuGEyewGuiQz9JW98UaAWbzAMXEieBn
+spl-token create-token
 ```
 
-- Link to the Block Explorer: https://explorer.solana.com/
-- Token extensions resources: https://www.solana-program.com/docs/token-2022/extensions
+3. Compile the program
+
+4. Build the program
+
+5. Create a token with token extensions
+
+```shell
+spl-token create-token --program-id TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb --transfer-hook <PROGRAM_ID> --enable-permanent-delegat
+```
+
+### Section 2: Complete the challenge
+
+For reference:
