@@ -31,3 +31,5 @@ spl-token create-token --program-id TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb 
 Enter the Compliance Coin Bounty Program: https://bounty-program.vercel.app/
 
 Solana Faucet: https://faucet.solana.com/
+
+Admin Page, for reference: https://token-22-transfer-hook.vercel.app/
