@@ -29,3 +29,5 @@ spl-token create-token --program-id TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb 
 ### Section 2: Complete the challenge
 
 Enter the Compliance Coin Bounty Program: https://bounty-program.vercel.app/
+
+Solana Faucet: https://faucet.solana.com/
