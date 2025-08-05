@@ -2,7 +2,7 @@
 
 ### Section 1: Create a wallet and your first token
 
-Solana Playground: https://beta.solpg.io/6892613ccffcf4b13384d85f
+Solana Playground: [https://beta.solpg.io/6892613ccffcf4b13384d85f](https://beta.solpg.io/68927d57cffcf4b13384d860)
 
 1. Compliance Coin Address:
 
